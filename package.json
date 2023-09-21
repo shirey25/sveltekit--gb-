@@ -47,7 +47,7 @@
     "@urql/svelte": "^2.0.2",
     "@zerodevx/svelte-toast": "^0.7.2",
     "cookie": "^0.4.1",
-    "graphql": "^16.5.0",
+    "graphql": "^16.8.1",
     "svelte-themes": "^0.0.98"
   }
 }
